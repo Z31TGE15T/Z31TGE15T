@@ -24,6 +24,7 @@
     <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
     <a href="https://w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://www.eclipse.org/eclipseide/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/eclipse-icon.png"></a>
     <a href="https://visualstudio.microsoft.com"><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/></a>
     <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
