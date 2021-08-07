@@ -13,7 +13,7 @@
   
 - 📬 How to reach me **ncdias2004@gmail.com**
 
-- ⚡️ Fun fact **My favorite bands are: Paramore, Sonic Youth, Pavement, Radiohead and my bloddy valentine**
+- ⚡️ Fun fact **My favorite bands are: Paramore, Sonic Youth, Pavement, Radiohead and Joy Division**
 
 ## 🚀 Languages and Tools:
 
